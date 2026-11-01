@@ -1,0 +1,8 @@
+streamlit
+google-genai
+fpdf2
+pymupdf
+
+
+
+
